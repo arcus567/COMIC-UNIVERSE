@@ -115,8 +115,8 @@ El archivo `script.js` está organizado en módulos funcionales:
 
 ## 👤 Autor
 
-**Andres_penagos** 
-**Sebastian_Davil**
+**Andres_penagos**,
+**Sebastian_Davil**,
 **Daniela_molano**
 Proyecto educativo — 2026  
 Institución: TEINCO  
